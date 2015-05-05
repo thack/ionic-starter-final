@@ -15,15 +15,15 @@
 
 ### Step 3
 
-* Add js/controllers.js
-* Add js/services.js
-* Add controllers and services to index.html
-
-
-* Add templates/dash.html
-* Add templates/person.html
-* Add templates/simple.html
-* Add templates/tabs.html
+* Add controllers and services
+    * Add js/controllers.js
+    * Add js/services.js
+    * Add controllers and services to index.html
+* Add templates
+    * Add templates/dash.html
+    * Add templates/person.html
+    * Add templates/simple.html
+    * Add templates/tabs.html
 
 ### Step 4
 
