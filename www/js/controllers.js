@@ -5,4 +5,5 @@ angular.module('starter.controllers').controller('DashCtrl', function($scope, Fr
 });
 
 angular.module('starter.controllers').controller('PersonCtrl', function($scope, Friends, $stateParams) {
+    $scope.person = Friends.get($stateParams.personId);
 });

@@ -1,2 +1,11 @@
-<ion-view view-title="Person">
+<ion-view view-title="{{person.name}}">
+    <ion-content class="padding">
+        <div class="card">
+            <img ng-src="{{person.face}}" class="full-image" />
+            <ion-item>
+                <h2>Notes</h2>
+                <p>{{person.notes}}</p>
+            </ion-item>
+        </div>
+    </ion-content>
 </ion-view>
