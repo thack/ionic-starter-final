@@ -1,5 +1,9 @@
 # Ionic Starter
 
+### Step By Step
+
+* https://github.com/thack/ionic-starter-final/releases
+
 ### Step 1
 
 * Install Ionic and Cordova
